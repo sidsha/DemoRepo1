@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9EDD-7F1C
+
+ Directory of C:\Users\Admin\Desktop\MyProject
+
+19/09/2018  16:04    <DIR>          .
+19/09/2018  16:04    <DIR>          ..
+19/09/2018  16:04                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  362,322,059,264 bytes free
